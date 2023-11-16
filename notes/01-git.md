@@ -15,4 +15,10 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 use this resource to get not copyrighted images.
 https://unsplash.com
 ----------------------------------------------------------------------------------------------------
+go to khalid ipsum for better lorem ipsun text
 
+------------------------------------------------------------------------------------------------------
+
+you can nest more rows into a column to create a new set of columns within the row.
+
+-------------------------------------------------------------------------------------------------------
