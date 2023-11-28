@@ -1,15 +1,19 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | Var Let Const
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > A function is a set of statements that perform a task or calculates a value
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > S: Single responsibility principle
+    O: Open closed principle
+    L: Liskov substitution principle
+    I: Interface segregation principle
+    D: dependency inversion principle
 
 04. Given this array: How could you remove the `pineapple`?
 
