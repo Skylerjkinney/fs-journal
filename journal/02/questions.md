@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > S: Single responsibility principle
+    S: Single responsibility principle
     O: Open closed principle
     L: Liskov substitution principle
     I: Interface segregation principle
@@ -21,7 +21,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | fruit.splice(3,1)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -38,24 +38,27 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > you can use the push method to target the friends property in the "them" array and add "you" to it this process will use vis versa
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > A condition is something like an if statement that can control behavior and dictate wether or not certain pieces of code can run
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > parameters are more "guidelines" or almost like a template for you to insert your arguments. I imagine making a parameter is like drilling a triangle shaped hole (which is the parameter), then having to insert only triangle shaped pieces that could be different colors but ultimately have to be a triangle.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > add debugger to your code, though mind that it will initialize within its own scope.
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | primitive are the values: null, undefined, numbers, boolean,. reference types are things like arrays, objects and functions
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for(let i = -100; i >= 100; i++){
+        console,.log(i)
+    }
+        
