@@ -1,5 +1,5 @@
 # Weekly Reflection
-This reflection is open-format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week or some of the things that you are still struggling with; identify some challenges you had at the beginning of the week that you were able to overcome, or just generally reflect on how you are feeling at this point in the course.
+I absolutely feel more confident this week moving into javaScript. The biggest struggles I face is understanding the design aspect of web development. Though i believe that over time I will pick it up and right now its more important for me to focus on the functionality of my projects. I also have been enjoying the firesides/whiteboard challenges and i feel like the content there has been positive for me. I need to make sure I understand the importance of aliasing out variables in order to "move" around my data. Something I learned that came to me as a surprise is the how we can use intervals to run a function at a set time that repeats. Super cool. I feel like this week overall can be considered a success. 
 
 ## Prompts
 - What went well this week?
