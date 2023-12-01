@@ -3,4 +3,4 @@
 * **[Repo](https://github.com/Skylerjkinney/firstJavaScript)**
 * **[Repo](https://github.com/Skylerjkinney/icecream)**
 * **[Repo](https://github.com/Skylerjkinney/Swarm)**
-* **[Repo](https://github.com/Skylerjkinney/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/Skylerjkinney/partneredHeroGame)**
