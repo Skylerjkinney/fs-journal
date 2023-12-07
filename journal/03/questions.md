@@ -24,7 +24,7 @@ Polymorphism = polymorphism is the concept that a functions can perform differen
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > 
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -32,7 +32,7 @@ Polymorphism = polymorphism is the concept that a functions can perform differen
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > A computed property is a Value that can be derived from another stored value.
 
 07. What is the purpose of the `MVC` pattern?
   
