@@ -16,15 +16,15 @@ Polymorphism = polymorphism is the concept that a functions can perform differen
 
 02. How does `export` differ from `export default`?
   
-  > Export is a way to move functions or expressions into differtn files and you can do alot of these. A default export, you can only have one this is considered a fallback.
+  > Export is a way to move functions or expressions into different files and you can do a lot of these. A default export, you can only have one this is considered a fallback.
 
 03. What is Encapsulation?
   
-  > The conecpt of binding fields (object state) and methods (behavior) together as a single unit
+  > The concept of binding fields (object state) and methods (behavior) together as a single unit
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > 
+  > The proxy object is a layer on an object that the machine uses to watch when data that we are drilling when the proxy threshold is trigger then the computer will observe that and perform the connected task
 
 05. What the difference between a `class` and an instance of a `class`?
   
