@@ -9,7 +9,8 @@
  
 Inheritance = lets the object acquire the properties and methods of another object. keep your inheritance simple and predictable. Remember the Liskov substitution principle. 
 
-Polymorphism = 
+Polymorphism = polymorphism is the concept that a functions can perform different operations at the same time!
+
  
 
 
@@ -19,7 +20,7 @@ Polymorphism =
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > The conecpt of binding fields (object state) and methods (behavior) together as a single unit
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
@@ -27,7 +28,7 @@ Polymorphism =
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > The difference is that a 'class' is a blueprint, an instance of that class would be the "Physical" copy of the blueprint
 
 06. What is a computed Property?
   
@@ -35,16 +36,15 @@ Polymorphism =
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > To abstract the project and practice the principles of oop
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The controller handles taking in user actions, the controller is also responsible for the draw of data to the dom
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  >This is where business logic happens anything that is changing the data goes in here.
 
 10. What is the job of the `Model` in `MVC`?
-  
-  > | ANSWER HERE |
+  Blueprint of the things that you want to build in the controller 
