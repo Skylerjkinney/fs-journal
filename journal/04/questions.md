@@ -19,11 +19,11 @@
 
   > A higher order function is a function that takes one or more functions as arguments, or returns a function as its result
   its a function that can run multiple functions
-  a callback function is the function that is called from the higher order function
+  a callback function is the function that is called from the higher order function to handle the a
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > A promise was the javascript solution to call back hell where there was just a cascading mess of indents and higher order functions because things need to run in async. Promises serve to solve this by having a function have two parameters that will either resolve or reject the parameters are functions that indicate completion or failure in asynchronous code.
 
 06. Name three processes used to make requests over `HTTP`?
 
