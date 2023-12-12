@@ -1,19 +1,25 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > synchronous code performs one action at a time and all other functions will remain idle while the one function is finished. In comparison asynchronous code will perform all the actions at the same time and will finish quickly.
+  synchronous code = slow
+  asynchronous = fast  
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > An event listener is a function that "watches" something an when something triggers on the thing that is listened too then something happens. Typically an function called a "handler".
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > refers to a group of software architecture design constraints that bring about efficient, reliable and scalable distributed systems.
+  In simple terms it means that it is a standardized way we handle client/server interactions and don't break the internet.
+  similar to HTTP is RESTful or RESTful API
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > A higher order function is a function that takes one or more functions as arguments, or returns a function as its result
+  its a function that can run multiple functions
+  a callback function is the function that is called from the higher order function
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
