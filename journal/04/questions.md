@@ -27,15 +27,17 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > Get : The GET method requests that the target resource transfer a representation of its state. how we get info from api
+    Post: The POST method requests that the target resource process the representation enclosed in the request according to the semantics of the target resource. how we send info in to api.
+    Head :The HEAD method requests that the target resource transfer a representation of its state, as for a GET request, but without the representation data enclosed in the response body.
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. // this is from AWS but the best description I found.
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > Make sure the function itself is asynchronous so that it cal delay its process until the promise is either resolved or rejected.
 
 09. What is the purpose of encapsulation in programming?
 
@@ -43,8 +45,17 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > successful responses will have a code between 200-299
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > Client side (you) response codes are in the 400-499 range
+
+
+
+  <!-- list of response codes from HTTP -->
+  Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
