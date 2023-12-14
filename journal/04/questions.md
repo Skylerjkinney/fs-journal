@@ -41,7 +41,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > The purpose of encapsulation is to bundle data within the function so that user parties do not have direct access to them.
 
 10. What is `HTTP` response code for a successful request?
 
