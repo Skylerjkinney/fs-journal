@@ -15,7 +15,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > ORM stands for object relational mapping // NOTE need to find this in class
+  > ORM stands for object relational mapping what we use with mongoDB is mongoose
 
 04. Which two `HTTP` request types include a body?
 
@@ -33,11 +33,11 @@
 
 07. What is middleware?
 
-  > Middleware is sort of a gatekeeper that will check the auth of a user.
+  > Middleware is sort of a gatekeeper that will check the auth of a user. It acts to provide a way to intercept and process data or events.
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > 
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
