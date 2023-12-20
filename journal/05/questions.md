@@ -45,4 +45,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > A virtual property is a propery on an object that does not exist in the database but CAN exist on the object for your response.
