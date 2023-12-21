@@ -21,9 +21,9 @@
 
   > A post request would have a body, and the get request would also contain a body
 
-05. In a/an __await_____ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an __async_____ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
+05. In a/an __syncrhonus_____ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an ___aynchronus____ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | await, async
+  > | syncrhonus, aynchronus
 
 06. What are the three types of data relationships? Provide an example of each.
 
@@ -37,11 +37,11 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > 
+  > request, respond
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > '?name=skyler'
 
 10. What is a ***virtual property***?
 
