@@ -1,6 +1,5 @@
 # Weekly Reflection
-This reflection is open-format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week or some of the things that you are still struggling with; identify some challenges you had at the beginning of the week that you were able to overcome, or just generally reflect on how you are feeling at this point in the course.
-
+Lessons learned this week. It is harder to plan an application than it is to build one at this point. I am grateful for my classmates and my instructors to help me overcome challanges and give me good feedback and help. I am sleepy.
 ## Prompts
 - What went well this week?
 - What did you learn that was a shock or surprise?
