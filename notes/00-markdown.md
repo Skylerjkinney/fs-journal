@@ -85,3 +85,6 @@ a line break uses three hyphens hyperlinks can be inlined [article link](https:/
 ---
 
 ![codeworks-logo](https://codeworks.blob.core.windows.net/public/assets/img/fs-mark.png)
+
+
+HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
